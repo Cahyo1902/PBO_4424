@@ -444,19 +444,10 @@ public class Contact {
         
 	}
 	
-	public void update()
-	{
-		
-	}
 	
-	public void delete()
-	{
-		
-	}
 }
 
-// array [0]{'nama','alamat','telp'}
-//array[1] {'nama','alamat','telp'}
+
 
 
     
